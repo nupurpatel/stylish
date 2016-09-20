@@ -67,6 +67,7 @@ body {
     color: #ff2800;
 }
 .text-vertical-special {
+    padding-top: 50px
     display: table-cell;
     text-align: center;
     vertical-align: top;
