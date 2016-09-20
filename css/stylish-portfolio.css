@@ -222,6 +222,12 @@ hr.small {
     -o-background-size: cover;
 }
 
+.callout2 {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+}
 /* Portfolio */
 
 .portfolio {
