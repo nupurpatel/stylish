@@ -15,7 +15,18 @@ body {
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+.slide-image {
+    width: 100%;
+}
 
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
 .text-vertical-center {
     display: table-cell;
     text-align: center;
