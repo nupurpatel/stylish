@@ -51,6 +51,12 @@ body {
     font-weight: 500;
     color: #ff2800;
 }
+
+.text-vertical-bottom {
+    display: table-cell;
+    text-align: center;
+    vertical-align: bottom;
+}
 /* Custom Button Styles */
 
 .btn-dark {
