@@ -318,7 +318,18 @@ hr.small {
     pointer-events: none;
 }
 
+#pretzel-video {
+bottom: 0;
+position: absolute;
+width: 100%;
+}
+
+video {
+display: inline-block;
+}
+
 /* Footer */
+
 
 footer {
     padding: 100px 0;
